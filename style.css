@@ -22,39 +22,39 @@ div {
 }
 
 .cls-1:nth-child(1) {
-    animation-delay: 0.5s;
+    animation-delay: 0.25s;
 }
 
 .cls-1:nth-child(2) {
-    animation-delay: 1s;
+    animation-delay: .5s;
 }
 .cls-1:nth-child(3) {
-    animation-delay: 1.5s;
+    animation-delay: .75s;
 }
 
 .cls-1:nth-child(4) {
-    animation-delay: 2s;
+    animation-delay: 1s;
 }
 .cls-1:nth-child(5) {
-    animation-delay: 2.5s;
+    animation-delay: 1.25s;
 }
 
 .cls-1:nth-child(6) {
-    animation-delay: 3s;
+    animation-delay: 1.5s;
 }
 .cls-1:nth-child(7) {
-    animation-delay: 3.5s;
+    animation-delay: 1.75s;
 }
 
 .cls-1:nth-child(8) {
-    animation-delay: 4s;
+    animation-delay: 2s;
 }
 .cls-1:nth-child(9) {
-    animation-delay: 5s;
+    animation-delay: 2.25s;
 }
 
 .cls-1:nth-child(10) {
-    animation-delay: 6s;
+    animation-delay: 2.5s;
 }
 
 @keyframes wave {
